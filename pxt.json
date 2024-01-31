@@ -8,7 +8,8 @@
         "microphone": "*",
         "radio-broadcast": "*",
         "Wait Until Custom Blocks": "github:teacherpinky/wait-until-blocks#v0.1.12",
-        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2"
+        "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2",
+        "dot": "github:kodely-io/dot#v1.0.8"
     },
     "files": [
         "main.blocks",
